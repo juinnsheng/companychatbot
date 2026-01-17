@@ -1,0 +1,361 @@
+{
+    "company_info": {
+      "name": "Company A",
+      "tagline": "Innovating Tomorrow, Today",
+      "founded": "1995",
+      "headquarters": "Kuala Lumpur, Malaysia",
+      "industry": "Technology & Manufacturing",
+      "employees": "15,000+"
+    },
+    "history": [
+      {
+        "id": "hist_001",
+        "year": "1995",
+        "title": "Company Foundation",
+        "content": "Company A was founded in Kuala Lumpur by visionary entrepreneurs John Tan and Sarah Lee. Starting as a small electronics manufacturing unit with just 20 employees, the company focused on producing high-quality circuit boards for the Southeast Asian market."
+      },
+      {
+        "id": "hist_002",
+        "year": "2000",
+        "title": "Regional Expansion",
+        "content": "Company A expanded operations to Singapore and Thailand, establishing two new manufacturing facilities. The company doubled its workforce and began exporting products to Europe and North America, marking its entry into the global market."
+      },
+      {
+        "id": "hist_003",
+        "year": "2005",
+        "title": "Technology Innovation",
+        "content": "Launched the revolutionary SmartBoard technology, a breakthrough in integrated circuit design. This innovation won the company the prestigious Asia Technology Award and established Company A as a leader in tech innovation."
+      },
+      {
+        "id": "hist_004",
+        "year": "2010",
+        "title": "Sustainability Commitment",
+        "content": "Company A committed to carbon neutrality by 2030 and invested $50 million in renewable energy infrastructure. The company opened its first solar-powered manufacturing plant in Penang, Malaysia, reducing carbon emissions by 40%."
+      },
+      {
+        "id": "hist_005",
+        "year": "2015",
+        "title": "Global Leadership",
+        "content": "Reached a milestone of 10,000 employees worldwide. Company A became the preferred supplier for major tech companies including leading smartphone and automotive manufacturers. Annual revenue exceeded $2 billion for the first time."
+      },
+      {
+        "id": "hist_006",
+        "year": "2020",
+        "title": "Digital Transformation",
+        "content": "Launched AI-powered manufacturing systems across all facilities. Company A invested heavily in Industry 4.0 technologies, implementing IoT sensors, predictive maintenance, and automated quality control systems that improved efficiency by 35%."
+      },
+      {
+        "id": "hist_007",
+        "year": "2023",
+        "title": "Future Vision",
+        "content": "Company A unveiled its 2030 vision focusing on sustainable technology, quantum computing components, and next-generation semiconductor manufacturing. The company announced plans to invest $500 million in R&D over the next five years."
+      }
+    ],
+    "leadership": [
+      {
+        "id": "lead_001",
+        "name": "Dr. Emily Wong",
+        "position": "Chief Executive Officer",
+        "bio": "Dr. Emily Wong joined Company A in 2018 and became CEO in 2021. With a Ph.D. in Electrical Engineering from MIT and 20 years of experience in the semiconductor industry, she leads the company's strategic vision. Under her leadership, Company A has expanded into quantum computing and AI-driven manufacturing.",
+        "email": "emily.wong@companya.com"
+      },
+      {
+        "id": "lead_002",
+        "name": "Michael Chen",
+        "position": "Chief Technology Officer",
+        "bio": "Michael Chen is the driving force behind Company A's technological innovations. He holds multiple patents in circuit design and has been with the company since 2005. Michael oversees all R&D initiatives and leads a team of 500+ engineers across global innovation centers.",
+        "email": "michael.chen@companya.com"
+      },
+      {
+        "id": "lead_003",
+        "name": "Aisha Rahman",
+        "position": "Chief Financial Officer",
+        "bio": "Aisha Rahman brings 15 years of financial expertise from her previous role at a Fortune 500 company. She joined Company A in 2019 and has been instrumental in driving sustainable growth and strategic investments. Aisha holds an MBA from Harvard Business School.",
+        "email": "aisha.rahman@companya.com"
+      },
+      {
+        "id": "lead_004",
+        "name": "David Kim",
+        "position": "Chief Operations Officer",
+        "bio": "David Kim manages Company A's global manufacturing operations across 12 facilities. With expertise in lean manufacturing and supply chain optimization, he has improved operational efficiency by 30% since joining in 2016. David is a certified Six Sigma Black Belt.",
+        "email": "david.kim@companya.com"
+      },
+      {
+        "id": "lead_005",
+        "name": "Sophie Martinez",
+        "position": "Chief Sustainability Officer",
+        "bio": "Sophie Martinez leads Company A's sustainability initiatives and environmental programs. She has pioneered the company's carbon neutrality roadmap and renewable energy adoption. Sophie has 12 years of experience in corporate sustainability and holds a Master's in Environmental Science.",
+        "email": "sophie.martinez@companya.com"
+      }
+    ],
+    "business_units": [
+      {
+        "id": "bu_001",
+        "name": "Advanced Electronics Division",
+        "description": "Our Advanced Electronics Division specializes in designing and manufacturing high-performance integrated circuits, microprocessors, and semiconductor components. We serve major clients in the consumer electronics, automotive, and telecommunications industries.",
+        "revenue_contribution": "45%",
+        "key_products": [
+          "SmartBoard Pro Series",
+          "QuantumChip X200",
+          "AutoDrive Sensors"
+        ]
+      },
+      {
+        "id": "bu_002",
+        "name": "Sustainable Energy Solutions",
+        "description": "This division focuses on renewable energy technologies including solar panel manufacturing, energy storage systems, and smart grid solutions. We provide end-to-end sustainable energy solutions for commercial and industrial clients.",
+        "revenue_contribution": "25%",
+        "key_products": [
+          "SolarMax Panels",
+          "EnergyVault Battery Systems",
+          "GridSmart Controllers"
+        ]
+      },
+      {
+        "id": "bu_003",
+        "name": "AI & Software Services",
+        "description": "Our newest division develops artificial intelligence solutions, machine learning platforms, and enterprise software for smart manufacturing. We offer cloud-based analytics, predictive maintenance systems, and automation software.",
+        "revenue_contribution": "20%",
+        "key_products": [
+          "IntelliFactory AI Platform",
+          "PredictPro Analytics",
+          "AutoOptimize Suite"
+        ]
+      },
+      {
+        "id": "bu_004",
+        "name": "Research & Development",
+        "description": "The R&D division drives innovation across all business units. We focus on emerging technologies including quantum computing, nanotechnology, and next-generation materials. Our team of 500+ scientists and engineers works on breakthrough innovations.",
+        "revenue_contribution": "10%",
+        "key_products": [
+          "Quantum Components",
+          "NanoMaterial Solutions",
+          "Future Tech Prototypes"
+        ]
+      }
+    ],
+    "offices": [
+      {
+        "id": "office_001",
+        "location": "Kuala Lumpur, Malaysia",
+        "type": "Global Headquarters",
+        "address": "Tower A, Menara Company A, Jalan Ampang, 50450 Kuala Lumpur, Malaysia",
+        "phone": "+60 3 2161 8888",
+        "email": "hq@companya.com",
+        "functions": [
+          "Executive Leadership",
+          "Global Strategy",
+          "Finance",
+          "HR"
+        ]
+      },
+      {
+        "id": "office_002",
+        "location": "Penang, Malaysia",
+        "type": "Manufacturing & Innovation Center",
+        "address": "Bayan Lepas Industrial Park, 11900 Penang, Malaysia",
+        "phone": "+60 4 643 9999",
+        "email": "penang@companya.com",
+        "functions": [
+          "Manufacturing",
+          "R&D",
+          "Quality Control",
+          "Engineering"
+        ]
+      },
+      {
+        "id": "office_003",
+        "location": "Singapore",
+        "type": "Regional Hub - Asia Pacific",
+        "address": "1 Marina Boulevard, #20-01, 018989 Singapore",
+        "phone": "+65 6789 1234",
+        "email": "singapore@companya.com",
+        "functions": [
+          "Sales",
+          "Marketing",
+          "Customer Service",
+          "Logistics"
+        ]
+      },
+      {
+        "id": "office_004",
+        "location": "San Jose, USA",
+        "type": "Technology Center",
+        "address": "2500 Mission College Blvd, Santa Clara, CA 95054, USA",
+        "phone": "+1 408 555 7890",
+        "email": "usa@companya.com",
+        "functions": [
+          "R&D",
+          "AI Development",
+          "Software Engineering",
+          "Innovation"
+        ]
+      },
+      {
+        "id": "office_005",
+        "location": "Frankfurt, Germany",
+        "type": "European Operations",
+        "address": "Europa-Allee 50, 60327 Frankfurt, Germany",
+        "phone": "+49 69 9876 5432",
+        "email": "europe@companya.com",
+        "functions": [
+          "Sales",
+          "Distribution",
+          "Customer Support",
+          "Compliance"
+        ]
+      }
+    ],
+    "financials": {
+      "fy2019": {
+        "year": "2019",
+        "revenue": "$1.8 billion",
+        "revenue_num": 1800000000,
+        "net_income": "$180 million",
+        "operating_margin": "15%",
+        "rd_investment": "$90 million",
+        "employee_count": 12000,
+        "highlights": "Strong growth in electronics division. Launched new product lines in automotive sensors. Expanded operations to Germany."
+      },
+      "fy2020": {
+        "year": "2020",
+        "revenue": "$2.1 billion",
+        "revenue_num": 2100000000,
+        "net_income": "$210 million",
+        "operating_margin": "16%",
+        "rd_investment": "$120 million",
+        "employee_count": 13000,
+        "highlights": "Digital transformation initiatives boosted efficiency by 25%. Despite pandemic challenges, achieved record revenue. Launched AI-powered manufacturing systems."
+      },
+      "fy2021": {
+        "year": "2021",
+        "revenue": "$2.5 billion",
+        "revenue_num": 2500000000,
+        "net_income": "$275 million",
+        "operating_margin": "17%",
+        "rd_investment": "$150 million",
+        "employee_count": 14000,
+        "highlights": "Entered quantum computing components market. Renewable energy division grew 40% year-over-year. Won major contracts with leading automotive manufacturers."
+      },
+      "fy2022": {
+        "year": "2022",
+        "revenue": "$2.9 billion",
+        "revenue_num": 2900000000,
+        "net_income": "$320 million",
+        "operating_margin": "18%",
+        "rd_investment": "$200 million",
+        "employee_count": 14500,
+        "highlights": "AI & Software Services division launched. Achieved 50% reduction in carbon emissions. Expanded manufacturing capacity by 30%."
+      },
+      "fy2023": {
+        "year": "2023",
+        "revenue": "$3.4 billion",
+        "revenue_num": 3400000000,
+        "net_income": "$408 million",
+        "operating_margin": "19%",
+        "rd_investment": "$250 million",
+        "employee_count": 15000,
+        "highlights": "Record year with strongest growth in company history. AI platform reached 200+ enterprise customers. Announced $500 million future R&D investment plan."
+      }
+    },
+    "sustainability": [
+      {
+        "id": "sust_001",
+        "title": "Carbon Neutrality Goal",
+        "content": "Company A is committed to achieving carbon neutrality by 2030. We have reduced our carbon emissions by 50% since 2020 through renewable energy adoption, energy-efficient manufacturing processes, and sustainable supply chain practices."
+      },
+      {
+        "id": "sust_002",
+        "title": "Renewable Energy",
+        "content": "We operate three solar-powered manufacturing facilities that generate 60% of our energy needs from renewable sources. Our Penang facility is 100% solar-powered, serving as a model for sustainable manufacturing in Southeast Asia."
+      },
+      {
+        "id": "sust_003",
+        "title": "Circular Economy",
+        "content": "Company A has implemented circular economy principles across operations. We recycle 85% of manufacturing waste, use recycled materials in packaging, and have a product take-back program that has recovered over 1 million devices for refurbishment or recycling."
+      },
+      {
+        "id": "sust_004",
+        "title": "Water Conservation",
+        "content": "Our water recycling systems have reduced freshwater consumption by 40%. All manufacturing facilities use closed-loop water systems, treating and reusing water for cooling and cleaning processes."
+      },
+      {
+        "id": "sust_005",
+        "title": "Community Impact",
+        "content": "We invest 2% of annual profits in community development programs. Company A has provided STEM education to over 50,000 students, planted 1 million trees, and supported 100+ social enterprises in communities where we operate."
+      }
+    ],
+    "careers": [
+      {
+        "id": "career_001",
+        "title": "Why Work at Company A",
+        "content": "Join a team of 15,000+ innovators working on cutting-edge technology. We offer competitive compensation, comprehensive benefits, continuous learning opportunities, and a culture that values diversity, innovation, and sustainability."
+      },
+      {
+        "id": "career_002",
+        "title": "Learning & Development",
+        "content": "Company A invests $20 million annually in employee development. We offer technical training programs, leadership development courses, tuition reimbursement, and partnerships with leading universities for advanced certifications and degrees."
+      },
+      {
+        "id": "career_003",
+        "title": "Diversity & Inclusion",
+        "content": "We celebrate diversity with 45% of our workforce being women and representation from over 60 nationalities. Our employee resource groups support LGBTQ+, women in tech, and various cultural communities."
+      },
+      {
+        "id": "career_004",
+        "title": "Benefits & Perks",
+        "content": "Comprehensive health insurance, flexible work arrangements, stock options, 25 days annual leave, parental leave, wellness programs, on-site fitness centers, and mental health support services."
+      },
+      {
+        "id": "career_005",
+        "title": "Open Positions",
+        "content": "We're hiring across all divisions: Electronics Engineers, Software Developers, Data Scientists, Manufacturing Specialists, Sustainability Experts, and more. Visit our careers portal or email careers@companya.com."
+      }
+    ],
+    "media": [
+      {
+        "id": "media_001",
+        "date": "2023-12-15",
+        "type": "Press Release",
+        "title": "Company A Announces Record Revenue of $3.4 Billion for FY2023",
+        "content": "Company A today announced record financial results for fiscal year 2023, with revenue reaching $3.4 billion, a 17% increase from the previous year. CEO Dr. Emily Wong attributed the success to strong performance across all business divisions and continued investment in innovation."
+      },
+      {
+        "id": "media_002",
+        "date": "2023-11-20",
+        "type": "Award",
+        "title": "Company A Wins Asia Sustainability Award 2023",
+        "content": "Company A has been recognized with the prestigious Asia Sustainability Award for its leadership in carbon reduction and renewable energy adoption. The award acknowledges the company's achievement in reducing emissions by 50% and commitment to carbon neutrality by 2030."
+      },
+      {
+        "id": "media_003",
+        "date": "2023-10-05",
+        "type": "Product Launch",
+        "title": "Revolutionary QuantumChip X200 Launched",
+        "content": "Company A unveiled the QuantumChip X200, a breakthrough in quantum computing components. The chip offers 10x performance improvement over traditional processors and is designed for next-generation AI and machine learning applications. Pre-orders have exceeded expectations."
+      },
+      {
+        "id": "media_004",
+        "date": "2023-08-12",
+        "type": "Partnership",
+        "title": "Strategic Partnership with Global Automotive Leader",
+        "content": "Company A announced a multi-year partnership with a leading global automotive manufacturer to supply advanced sensors and AI systems for autonomous vehicles. The partnership is valued at over $500 million and will create 200 new jobs."
+      },
+      {
+        "id": "media_005",
+        "date": "2023-06-30",
+        "type": "Innovation",
+        "title": "Company A Opens State-of-the-Art AI Research Center",
+        "content": "A new 50,000 square foot AI Research Center opened in San Jose, California. The facility will house 200 researchers working on artificial intelligence, machine learning, and autonomous systems. The center represents a $100 million investment in future technologies."
+      }
+    ],
+    "contact": {
+      "general_inquiries": "info@companya.com",
+      "investor_relations": "investors@companya.com",
+      "media_inquiries": "media@companya.com",
+      "careers": "careers@companya.com",
+      "customer_support": "support@companya.com",
+      "phone_main": "+60 3 2161 8888",
+      "address": "Tower A, Menara Company A, Jalan Ampang, 50450 Kuala Lumpur, Malaysia"
+    }
+  }
